@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rechambering-slap-102112.mp3-7b3595bbcff6a96e0d47a107b5b09dc1.mp3str"
+
+[deps]
+
+source_file="res://assets/rechambering-slap-102112.mp3"
+dest_files=[ "res://.import/rechambering-slap-102112.mp3-7b3595bbcff6a96e0d47a107b5b09dc1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

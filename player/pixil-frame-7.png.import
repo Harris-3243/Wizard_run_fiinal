@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pixelated_txt_box.png-48d7eb3a5fd9e47b3de80bd2c002da28.stex"
+path="res://.import/pixil-frame-7.png-ab4bbd6268b81593d46fadd67753749a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/pixelated_txt_box.png"
-dest_files=[ "res://.import/pixelated_txt_box.png-48d7eb3a5fd9e47b3de80bd2c002da28.stex" ]
+source_file="res://assets/player/pixil-frame-7.png"
+dest_files=[ "res://.import/pixil-frame-7.png-ab4bbd6268b81593d46fadd67753749a.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
