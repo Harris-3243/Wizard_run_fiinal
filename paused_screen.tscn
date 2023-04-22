@@ -1,0 +1,17 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 1043.0
+margin_bottom = 611.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Label" type="Label" parent="ColorRect"]
+margin_left = 370.0
+margin_top = 254.0
+margin_right = 639.0
+margin_bottom = 366.0
+text = "game paused"
+align = 1
+valign = 1
